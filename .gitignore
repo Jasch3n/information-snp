@@ -1,6 +1,7 @@
 notes.txt 
 /references 
 /.vscode
-/data
+/data/ensembles
+/data/models
 /archive
 slides.pptx

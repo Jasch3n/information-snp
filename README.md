@@ -4,6 +4,8 @@ Companion notebooks and scripts written to produce results in the paper.
 The data used are summarized with the following table from the original thesis:
 ![image](https://github.com/user-attachments/assets/427d072b-902b-41ce-8964-0e8c75def23c)
 
+The data utilized was not included in this repository, but they can be downloaded and processed with `notebooks/download_data.ipynb` and `notebooks/create_ensemble_dataset.ipynb` along with the the data documents provided in the `data` folder.
+
 When extrapolating datasets, I have chosen to fill unrecorded data with NaN. The calculations are then done either by ignoring them or replacing them with zeros. 
 
 - `notebooks/gaussian_arrays.ipynb` contains code used to study the properties of the information theory predictability measures on randomly generated Gaussian samples. 
